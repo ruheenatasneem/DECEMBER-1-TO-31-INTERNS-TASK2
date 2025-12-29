@@ -139,7 +139,12 @@ def result():
 
  
 if __name__ == '__main__' :
-    app.run(debug=True)    
+    app.run(debug=True)   
+
+
+
+    video link: https://youtu.be/hqSlzGd9ePc 
+    github link:  https://github.com/ruheenatasneem/DECEMBER-1-TO-31-INTERNS-TASK2/edit/main/README.md
 
     
 
